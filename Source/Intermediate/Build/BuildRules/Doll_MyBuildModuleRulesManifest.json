@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Engine 4 Projects\\Doll_MyBuild\\Source\\Doll_MyBuild\\Doll_MyBuild.Build.cs",
+		"D:\\Unreal Engine 4 Projects\\Doll_MyBuild\\Source\\Doll_MyBuild.Target.cs",
+		"D:\\Unreal Engine 4 Projects\\Doll_MyBuild\\Source\\Doll_MyBuildEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}

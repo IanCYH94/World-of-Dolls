@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Doll_MyBuild.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{FECDC9AC-6FC5-4C4D-95E5-5E180E595437}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Doll_MyBuild.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Doll_MyBuildEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{091CEC89-CEC2-4342-B8EB-F044E96F4CD3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Doll_MyBuild">
+      <UniqueIdentifier>{50D474CF-F616-4F02-8CDE-48E1E25A622A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Doll_MyBuild\Doll_MyBuild.Build.cs">
+      <Filter>Source\Doll_MyBuild</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Doll_MyBuild\Doll_MyBuild.cpp">
+      <Filter>Source\Doll_MyBuild</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Doll_MyBuild\Doll_MyBuild.h">
+      <Filter>Source\Doll_MyBuild</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Doll_MyBuild\Doll_MyBuildCharacter.cpp">
+      <Filter>Source\Doll_MyBuild</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Doll_MyBuild\Doll_MyBuildCharacter.h">
+      <Filter>Source\Doll_MyBuild</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Doll_MyBuild\Doll_MyBuildGameMode.cpp">
+      <Filter>Source\Doll_MyBuild</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Doll_MyBuild\Doll_MyBuildGameMode.h">
+      <Filter>Source\Doll_MyBuild</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

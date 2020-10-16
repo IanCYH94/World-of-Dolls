@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Doll_MyBuild",
+			"Path": "D:\\Unreal Engine 4 Projects\\Doll_MyBuild\\Source\\Doll_MyBuild.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Doll_MyBuildEditor",
+			"Path": "D:\\Unreal Engine 4 Projects\\Doll_MyBuild\\Source\\Doll_MyBuildEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

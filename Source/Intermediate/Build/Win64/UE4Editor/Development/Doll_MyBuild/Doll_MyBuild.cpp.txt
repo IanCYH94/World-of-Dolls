@@ -1,0 +1,2 @@
+D:\Unreal Engine 4 Projects\Doll_MyBuild\Intermediate\Build\Win64\UE4Editor\Development\Doll_MyBuild\Definitions.Doll_MyBuild.h
+D:\Unreal Engine 4 Projects\Doll_MyBuild\Source\Doll_MyBuild\Doll_MyBuild.h
